@@ -1,0 +1,12 @@
+{
+  "buildCommand": "npm run build",
+  "outputDirectory": "dist/public",
+  "functions": {
+    "api/datasets.ts": {
+      "runtime": "nodejs18.x"
+    },
+    "api/ask.ts": {
+      "runtime": "nodejs18.x"
+    }
+  }
+}
