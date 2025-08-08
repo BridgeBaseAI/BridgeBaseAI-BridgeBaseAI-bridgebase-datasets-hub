@@ -4,10 +4,10 @@
   "outputDirectory": "dist/public",
   "functions": {
     "api/datasets.ts": {
-      "runtime": "@vercel/node"
+      "runtime": "@vercel/node@2.8.0"
     },
     "api/ask.ts": {
-      "runtime": "@vercel/node"
+      "runtime": "@vercel/node@2.8.0"
     }
   }
 }
